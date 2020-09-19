@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/svelte-base.git"
+    "url": "git+https://github.com/juanfer2/svelte-boilerplate.git"
   },
   "keywords": [
     "JavaScript",
     "Svelte"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Juan Villadiego <jfvilladiego3@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/svelte-base/issues"
+    "url": "https://github.com/juanfer2/svelte-boilerplate.git/issues"
   },
-  "homepage": "https://github.com/gndx/svelte-base#readme",
+  "homepage": "https://github.com/juanfer2/svelte-boilerplate.git#readme",
   "dependencies": {
     "svelte": "^3.22.2"
   },
